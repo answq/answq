@@ -4,10 +4,10 @@
 
 <br/>
 
-<p align="center">
+<h3 align="center">
   Welcome to my page!<br/>
   I'm Front-end Developer from Korea 🇰🇷 
-</p>
+</h3>
 
 <br/><br/>
 
