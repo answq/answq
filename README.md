@@ -1,10 +1,12 @@
-<h1 align="center">👋 Hey! Nice to see you</h1>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👩‍💻%20ANSWQ's%20GitHub&fontSize=50&animation=twinkling&fontAlign=51&descAlign=100"/>
+</p>
 
 <br/>
 
 <p align="center">
   Welcome to my page!<br/>
-  I'm Jeongbin, Front-end Developer from Korea 🇰🇷 
+  I'm Front-end Developer from Korea 🇰🇷 
 </p>
 
 <br/><br/>
